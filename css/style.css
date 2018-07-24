@@ -70,7 +70,7 @@ body {
 
 .skillsSection,
 .contactSection {
-  background-color: #00b894;
+  background-color: #7e8ba0;
   color: #fff;
   font-weight: bolder;
 }
@@ -176,7 +176,7 @@ body {
 
 .filter a {
   color: #bdc3c7;
-  border: 1px solid #bdc3c7;
+  border: 1px solid #7e8ba0;
   padding: 10px 18px;
   display: block;
 }
@@ -187,8 +187,8 @@ body {
 }
 
 .filter .current {
-  background-color: #00b894;
-  border-color: #00b894;
+  background-color: #7e8ba0;
+  border-color: #7e8ba0;
   color: #fff;
 }
 
@@ -247,7 +247,7 @@ body {
 .items a {
   width: 40px;
   height: 40px;
-  background-color: #00b894;
+  background-color: #7e8ba0;
   position: relative;
   display: inline-block;
 
@@ -309,7 +309,7 @@ body {
 }
 
 .copyRightSection {
-  background-color: #000;
+  background-color: #7e8ba0;
   color: white;
   padding: 30px 5px;
 }
@@ -319,7 +319,7 @@ body {
 }
 
 #navigation {
-  background-color: #00b894;
+  background-color:#7e8ba0;
   padding: 20px 10px;
   z-index: 100;
   width: 100%;
